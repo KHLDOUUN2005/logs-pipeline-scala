@@ -1,0 +1,9 @@
+target/
+.bsp/
+.metals/
+.idea/
+*.class
+output/
+data/
+project/target/
+project/project/
